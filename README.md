@@ -13,6 +13,6 @@ Everything from scratch.
 7 A website------python html javascript   
 8 a databases-----c++,with sql or nosql   
 9 algorithm and data struct.   
-A write a simple JVM-------github kaffe
+A write a simple JVM-------github kaffe    
 B an ios app----oc swift  
 C ...  
