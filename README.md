@@ -15,7 +15,7 @@ Everything from scratch.
 9 algorithm and data struct.                                   either is ok   
 A write a simple JVM-------github kaffe                         home    
 B an ios app----oc swift                                       home    
-C android system --including linux kernel,JVM framework design, linux development ..etc
+C android system --including linux kernel,JVM framework design, linux development ..etc   
 D a gui system-----c++
 
 
