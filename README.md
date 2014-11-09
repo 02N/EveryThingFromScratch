@@ -4,7 +4,7 @@ Some time I find the life is meanless,and everything is boring.
 And I fear of everthing that will happened tomorrow.   
 So I want to find something that I want to do.   
 Everything from scratch.   
-1 OS----orange os(book) ---operate system   --this need root user.so do it at home.    
+1 OS----orange os(book) ---operate system   old linux info--this need root user.so do it at home.    
 2 compiler-----write a language by ourself----compiler,workspace or home is ok    
 3 A game-----write by Java.--------线性代数，高等数学，java语言,计算机图形学  either is ok    
 4 a webgl game----write by javascript and opengl----------computer graphic   either is ok    
@@ -17,5 +17,5 @@ A write a simple JVM-------github kaffe                         home
 B an ios app----oc swift                                       home    
 C android system --including linux kernel,JVM framework design, linux development ..etc   
 D a gui system-----c++
-
+E 
 
