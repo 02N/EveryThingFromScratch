@@ -1,0 +1,5 @@
+#mincecraft
+mincecraft 是个很好的游戏，网上有个很简单的java applet的demo，为啥用java来学习游戏基本概念呢，因为java有个很强大的功能hot swap功能，不用重新运行就可以看到效果了，这对初学者太好了
+
+首先咱们先学习2D游戏，这个例子是个特别好的例子
+

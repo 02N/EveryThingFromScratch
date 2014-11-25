@@ -14,7 +14,8 @@ import javax.imageio.ImageIO;
 import javax.swing.JFrame;
 
 import com.mojang.ld22.entity.Player;
-import com.mojang.ld22.entity.particle.SmashParticle;
+
+import com.mojang.ld22.entity.particle.TestParticle;
 import com.mojang.ld22.gfx.Color;
 import com.mojang.ld22.gfx.Font;
 import com.mojang.ld22.gfx.Screen;
@@ -218,7 +219,7 @@ public class Game extends Canvas implements Runnable {
 			requestFocus();
 			return;
 		}
-		SmashParticle paticle = new SmashParticle(screen.w/2,screen.h/2);
+		TestParticle paticle = new TestParticle(screen.w/2,screen.h/2);
 		paticle.render(screen);
 		
 		for (int y = 0; y < screen.h; y++) {
