@@ -51,4 +51,5 @@ Everything from scratch.
   http://css.csail.mit.edu/6.824/2014    
 16. write a video union website    
   django + jquery+ mysql + hadoop/spark +ML    
-17. write a game jam circle app     
+17. write a game jam circle app    
+18. https://www.kaggle.com/ data science    
